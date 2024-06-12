@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: 7e812a66329fe455bbd91ea1535f1014
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43988f252d50b47d3b1caf3181308e3f
+      internalID: -1786297999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 182.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2cf71a6735e4e88abb24d1573a99fa
+      internalID: -1760571604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 182.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ff9aefb97694610beaefd1bac1cb78
+      internalID: -446922620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 182.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fb1d4836b404736b412316bd7efc3f
+      internalID: 1110244628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 182.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcefda4a9b2941d3aa6873d5bd1d103
+      internalID: -1962884319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 182.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33febb88af71d445f92a488dc9aab8a2
+      internalID: 1698301570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 182.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7b3eb418dc74c7fb1ff9cf50fc4d04
+      internalID: -764153768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 182.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ab9eed6420141e0b1da941ef72b543
+      internalID: 2117092871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c2a76e9f98a4eefae77bf15cc2d61d
+      internalID: -1681381422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 156.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45173e07e01664071b90196bada3087f
+      internalID: -648538739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 156.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af7bc13d5a654023835cfd084aacbd9
+      internalID: -1146895434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 156.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a06feb5e03f4b89baee3f2cdceb28f
+      internalID: -128276401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 156.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91738ab9aafde44b89f1a51dc54aab1d
+      internalID: 1895644835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 156.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcaffe398789499488ca267e210ddd9
+      internalID: -1304621438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 156.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0119dff3950f4ec68a615da3414e857
+      internalID: 22707576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_15
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 156.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfd78d1408f7436ea4b07c42bd9103f
+      internalID: 1416989834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57019b63cafa44e23943ee01ffba061b
+      internalID: 258520797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 130.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fd3a4e8654b49a5b336d3c4d065265
+      internalID: -668641736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 130.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce73514312954a0cbca39fbb7c0f2e8
+      internalID: -2096018103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 130.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a5e27097fb34ee08cd4cb92ec0fabd
+      internalID: -846393246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 130.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6728b22a1389349ac872aa9d0d295b63
+      internalID: -283819757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 130.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348c7d324d804411888b41887b796874
+      internalID: -1337166044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 130.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3075b3227504472a5b4cd26c8d7dac
+      internalID: 1127182003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_23
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 130.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8ffe2cb04c941169537fdd215445c6
+      internalID: 1231544381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e927da40c784465bba3af86af99ebf
+      internalID: 347954416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 104.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff8e9b0dd92b4701aec3220bba1f868
+      internalID: -990211542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 104.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0055126c36d69484c819d69f57a43b44
+      internalID: 22577018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_27
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 104.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6799a592f82904b4982a091008b234ba
+      internalID: 520695460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_28
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 104.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca22331690dcb46dca454447dfa579b0
+      internalID: 1308060420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 104.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debf3ae275a92487a9c41cd9854b2987
+      internalID: -2106461836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_30
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 104.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c332b01abd76142c38e1f369afee7bcd
+      internalID: -872224974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 104.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55e273475b184019b57064377731d3c
+      internalID: -438527340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d559c7420f2c640ea96fd863f338c969
+      internalID: -1147046948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 78.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668e1df479eec40b088a87d13abe7062
+      internalID: -104031998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 78.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ff991135d2f4326aa376a809ac9f5c
+      internalID: 507298766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 78.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354d1edae38a248cea4dbe2fd62246ef
+      internalID: -1098340878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 78.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b71efefbfd8c436d932ed92d42b9abd
+      internalID: -454798396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_37
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 78.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0feefb3979f43c48fb5a5215ff7f8e
+      internalID: 1180765148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_38
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 78.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feffb3c33f73f4c4aaa5bfe1afe43ae7
+      internalID: -936566136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_39
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 78.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d5160a294bc4470bc5df19f619e8c0
+      internalID: -72007765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157ca152cf1a94bc59489ce325352426
+      internalID: -981819190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 52.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08f83891207d4bde8708303cc99398c
+      internalID: -297547527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 52.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e32ab654c58e4e5a949b1230a06c242
+      internalID: -1100960929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_43
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 52.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5addb4e0273c4910920e31e040c0b03
+      internalID: -2034271525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_44
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 52.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e71547f599743ed96b708701c5a495
+      internalID: 590032270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_45
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 52.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df118addb948643578c70a43d9d55026
+      internalID: -308351836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_46
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 52.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4c6b3f5245d41adaecc4fea89813c7
+      internalID: 1849484652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_47
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 52.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bcd35e3e44b4385aa02315cb9cc140
+      internalID: -1743065250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfb288171923440daf3abb8a85be2a7
+      internalID: 1671513285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_49
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 26.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b09d5b2d84344946b50821394ed1208
+      internalID: -11378117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 26.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3544dd8b6b7974fe2978f852bead7ac1
+      internalID: -1401968136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_51
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 26.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bb1431497984d68962f65be4bb4c26
+      internalID: 961245379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_52
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 26.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13504aa87c0d34dd498c0a941024d9cb
+      internalID: 1094534447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_53
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 26.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40379be841cf2487581ecfd38d190b2a
+      internalID: 221216185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_54
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 26.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bfddd30fc194957a0ff3e7bb1867d0
+      internalID: 1326082437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_55
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 26.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d38500afeb774311aa5b34afd72e3d4
+      internalID: -1200034598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1316c71194b4b430988548e0ef85b75c
+      internalID: -219802953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_57
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9bf018174c4442f87c2cdccb209a1a
+      internalID: 910280231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_58
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dfd5d79c7ac4ec7ab7fed918525c4d
+      internalID: -818809411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_59
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bec4cae434d46a8b81c82ff5466688
+      internalID: 950367154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c04f66b735c34ca580868b499212a7e
+      internalID: -680492974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_61
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7813cf103d74010972ecac68c27993
+      internalID: -797055422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_62
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001fa82fd5fe444ab985c3bc4b557f8b
+      internalID: -1862918002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_63
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0.875
+        width: 41.375
+        height: 26.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11284180d5cdc4e70bfb6a32b7496b2f
+      internalID: 1902022539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_0: -1786297999
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_1: -1760571604
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_10: -1146895434
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_11: -128276401
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_12: 1895644835
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_13: -1304621438
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_14: 22707576
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_15: 1416989834
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_16: 258520797
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_17: -668641736
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_18: -2096018103
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_19: -846393246
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_2: -446922620
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_20: -283819757
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_21: -1337166044
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_22: 1127182003
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_23: 1231544381
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_24: 347954416
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_25: -990211542
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_26: 22577018
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_27: 520695460
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_28: 1308060420
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_29: -2106461836
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_3: 1110244628
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_30: -872224974
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_31: -438527340
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_32: -1147046948
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_33: -104031998
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_34: 507298766
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_35: -1098340878
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_36: -454798396
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_37: 1180765148
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_38: -936566136
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_39: -72007765
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_4: -1962884319
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_40: -981819190
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_41: -297547527
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_42: -1100960929
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_43: -2034271525
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_44: 590032270
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_45: -308351836
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_46: 1849484652
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_47: -1743065250
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_48: 1671513285
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_49: -11378117
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_5: 1698301570
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_50: -1401968136
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_51: 961245379
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_52: 1094534447
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_53: 221216185
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_54: 1326082437
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_55: -1200034598
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_56: -219802953
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_57: 910280231
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_58: -818809411
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_59: 950367154
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_6: -764153768
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_60: -680492974
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_61: -797055422
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_62: -1862918002
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_63: 1902022539
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_7: 2117092871
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_8: -1681381422
+      Custom Edited - Mega Man Customs - Mega Man Bubble Bobble-Style_9: -648538739
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
